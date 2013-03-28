@@ -1,0 +1,4 @@
+PassengerEnabled on
+RackBaseURI /sinatra
+PassengerAppRoot /home/tw981/sinatra/main_agi
+RackEnv development
